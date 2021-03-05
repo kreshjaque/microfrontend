@@ -1,0 +1,8 @@
+{
+  "name": "microfrontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kreshjaque/microfrontend.git",
+  "author": "Krishna Kumar <kreshjaque@gmail.com>",
+  "license": "MIT"
+}
